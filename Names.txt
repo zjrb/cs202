@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Names:
 Michael Muniz
+=======
+Names: Zak Beach
+>>>>>>> 42b3b612b79ec91510aef044293c0765b834f1d9
